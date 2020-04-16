@@ -1,0 +1,12 @@
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\bin\Debug\netstandard2.0\Forecast.Infra.deps.json
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\bin\Debug\netstandard2.0\Forecast.Infra.dll
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.csprojAssemblyReference.cache
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.AssemblyInfoInputs.cache
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.AssemblyInfo.cs
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\bin\Debug\netstandard2.0\Forecast.Infra.pdb
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.dll
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.pdb
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\bin\Debug\netstandard2.0\Forecast.Domain.dll
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\bin\Debug\netstandard2.0\Forecast.Domain.pdb
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.csproj.CopyComplete
+C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Infra\obj\Debug\netstandard2.0\Forecast.Infra.csproj.CoreCompileInputs.cache

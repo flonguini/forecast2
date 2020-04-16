@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="Forecast.Module.Menu.Views.BottomMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:converter="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+             prism:ViewModelLocator.AutoWireViewModel="True">
+
+    <!-- TODO: Move to resources -->
+    <UserControl.Resources>
+        <converter:BooleanToVisibilityConverter x:Key="BoolToVisibility"></converter:BooleanToVisibilityConverter>
+
+        <DataTemplate x:Key="TopMenuButtonTemplate">
+            <StackPanel>
+                <!-- Button -->
+                <Button Height="50" 
+                        Content="{Binding Content}" 
+                        Command="{Binding Command}" 
+                        CommandParameter="{Binding Parameter}"
+                        MinWidth="115"/>
+
+                <!-- Button highlight -->
+                <Border Height="5" 
+                    Background="Red" 
+                    Visibility="{Binding IsVisible, Converter={StaticResource BoolToVisibility}}"/>
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <Grid Background="LightCoral">
+        <ItemsControl ItemsSource="{Binding Buttons}" ItemTemplate="{StaticResource TopMenuButtonTemplate}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+    </Grid>
+</UserControl>

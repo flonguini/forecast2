@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gxws3KxdmRiU/nQw7GfH4O56Cud9Wg0zPtXtZ2NFzsiMSF0qxFnscyOvPBky94tnwkWaC6PNu3sWHCzpoD9pKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FERNANDOLONGUINIDASI\\Desktop\\Forecast\\Modules\\Forecast.Module.Enroll\\Forecast.Module.Enroll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\prism.wpf\\7.2.0.1367\\prism.wpf.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

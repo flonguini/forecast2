@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qAyApb54mrZeZt7C7oOTCRoaQYaN7L6lhQ5v+CktGOW6N4ucsbUGsIeorMD/+kMbV5zdXLOttKd9IPB96gZV2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FERNANDOLONGUINIDASI\\Desktop\\Forecast\\Core\\Forecast.Core\\Forecast.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\FERNANDOLONGUINIDASI\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+﻿<Window x:Class="Forecast.Wpf.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        MinHeight="{Binding MinHeight}"
+        MinWidth="{Binding MinWidth}"
+        Height="{Binding MinHeight}"
+        Width="{Binding MinWidth}"
+        Title="{Binding Title}"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <!-- Grid rows -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="56"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+
+        <!-- Top Menu -->
+        <ContentControl Grid.Row="0" 
+                        prism:RegionManager.RegionName="TopMenu"/>
+
+        <!-- Bottom Menu-->
+        <ContentControl Grid.Row="1" 
+                        prism:RegionManager.RegionName="BottomMenu" 
+                        Panel.ZIndex="1"/>
+
+        <!-- Main Content -->
+        <ContentControl Grid.Row="2" 
+                        prism:RegionManager.RegionName="Content"/>
+
+        <!-- Status Bar -->
+        <ContentControl Grid.Row="3" 
+                        prism:RegionManager.RegionName="StatusBar"/>
+    </Grid>
+</Window>
