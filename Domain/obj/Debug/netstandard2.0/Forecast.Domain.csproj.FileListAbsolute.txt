@@ -1,9 +1,0 @@
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\bin\Debug\netstandard2.0\Forecast.Domain.deps.json
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\bin\Debug\netstandard2.0\Forecast.Domain.dll
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\bin\Debug\netstandard2.0\Forecast.Domain.pdb
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\obj\Debug\netstandard2.0\Forecast.Domain.csprojAssemblyReference.cache
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\obj\Debug\netstandard2.0\Forecast.Domain.AssemblyInfoInputs.cache
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\obj\Debug\netstandard2.0\Forecast.Domain.AssemblyInfo.cs
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\obj\Debug\netstandard2.0\Forecast.Domain.dll
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\obj\Debug\netstandard2.0\Forecast.Domain.pdb
-C:\Users\FERNANDOLONGUINIDASI\Desktop\Forecast\Domain\obj\Debug\netstandard2.0\Forecast.Domain.csproj.CoreCompileInputs.cache
